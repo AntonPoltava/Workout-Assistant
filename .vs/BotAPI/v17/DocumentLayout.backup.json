@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonis\\source\\repos\\BotAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\models\\exercisemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\models\\exercisemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\botapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\botapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|c:\\users\\tonis\\source\\repos\\botapi\\telegramgymhelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|solutionrelative:telegramgymhelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\database\\dbexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\database\\dbexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\client\\wgerapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\client\\wgerapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|c:\\users\\tonis\\source\\repos\\botapi\\telegramgymhelper\\controllers\\telegrambotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|solutionrelative:telegramgymhelper\\controllers\\telegrambotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|c:\\users\\tonis\\source\\repos\\botapi\\telegramgymhelper\\service\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|solutionrelative:telegramgymhelper\\service\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\client\\azuretranslatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\client\\azuretranslatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|c:\\users\\tonis\\source\\repos\\botapi\\botapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DA87AA4-BFAF-40C5-9002-5DB3FBA6DA6D}|BotAPI\\BotAPI.csproj|solutionrelative:botapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|c:\\users\\tonis\\source\\repos\\botapi\\telegramgymhelper\\telegramgymhelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8AC1B901-7122-4888-9049-6C15015EB667}|TelegramGymHelper\\TelegramGymHelper.csproj|solutionrelative:telegramgymhelper\\telegramgymhelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExerciseModel.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Models\\ExerciseModel.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Models\\ExerciseModel.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Models\\ExerciseModel.cs",
+              "RelativeToolTip": "BotAPI\\Models\\ExerciseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:09:20.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WgerApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Client\\WgerApiClient.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Client\\WgerApiClient.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Client\\WgerApiClient.cs",
+              "RelativeToolTip": "BotAPI\\Client\\WgerApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:19:09.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Controllers\\ExercisesController.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "BotAPI\\Controllers\\ExercisesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:34:37.505Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBExercise.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Database\\DBExercise.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Database\\DBExercise.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Database\\DBExercise.cs",
+              "RelativeToolTip": "BotAPI\\Database\\DBExercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:41:48.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelegramBotController.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\Controllers\\TelegramBotController.cs",
+              "RelativeDocumentMoniker": "TelegramGymHelper\\Controllers\\TelegramBotController.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\Controllers\\TelegramBotController.cs",
+              "RelativeToolTip": "TelegramGymHelper\\Controllers\\TelegramBotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:26:27.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\appsettings.json",
+              "RelativeDocumentMoniker": "TelegramGymHelper\\appsettings.json",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\appsettings.json",
+              "RelativeToolTip": "TelegramGymHelper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T18:50:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\Service\\TelegramService.cs",
+              "RelativeDocumentMoniker": "TelegramGymHelper\\Service\\TelegramService.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\Service\\TelegramService.cs",
+              "RelativeToolTip": "TelegramGymHelper\\Service\\TelegramService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:50:14.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TelegramGymHelper.csproj",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\TelegramGymHelper.csproj",
+              "RelativeDocumentMoniker": "TelegramGymHelper\\TelegramGymHelper.csproj",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\TelegramGymHelper\\TelegramGymHelper.csproj",
+              "RelativeToolTip": "TelegramGymHelper\\TelegramGymHelper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T18:50:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AzureTranslatorClient.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Client\\AzureTranslatorClient.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Client\\AzureTranslatorClient.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Client\\AzureTranslatorClient.cs",
+              "RelativeToolTip": "BotAPI\\Client\\AzureTranslatorClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:18:53.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BotAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Program.cs",
+              "RelativeToolTip": "BotAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:12:00.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BotAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\appsettings.json",
+              "RelativeToolTip": "BotAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T19:10:07.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BotAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BotAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T18:02:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BotAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\BotAPI.csproj",
+              "RelativeDocumentMoniker": "BotAPI\\BotAPI.csproj",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\BotAPI.csproj",
+              "RelativeToolTip": "BotAPI\\BotAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T17:21:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\appsettings.example.json",
+              "RelativeDocumentMoniker": "BotAPI\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\appsettings.example.json",
+              "RelativeToolTip": "BotAPI\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T14:54:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\.gitignore",
+              "RelativeDocumentMoniker": "BotAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\tonis\\source\\repos\\BotAPI\\BotAPI\\.gitignore",
+              "RelativeToolTip": "BotAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-09T14:50:58.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

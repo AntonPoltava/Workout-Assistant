@@ -1,0 +1,25 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# ASP.NET Secrets
+secrets.json
+
+# Configs
+appsettings.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Node/npm if used
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
