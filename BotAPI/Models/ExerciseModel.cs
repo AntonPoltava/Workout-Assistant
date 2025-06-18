@@ -3,12 +3,25 @@ using System.Text.Json.Serialization;
 
 namespace BotAPI.Models
 {
-    public class ExerciseInfoResponse
+   
+    public class FavoriteExerciseDto
+    {
+        public long UserId { get; set; }
+        public int ExerciseId { get; set; }
+    }
+    public class FavoriteExercise
+    {
+        public int Id { get; set; }
+        public long UserId { get; set; }
+        public int ExerciseId { get; set; }
+        public DateTime CreatedAt { get; set; }
+    }
+    public class ExerciseInfoResponse<T>
     {
         public int Count { get; set; }
         public string? Next { get; set; }
         public string? Previous { get; set; }
-        public List<ExerciseWgerResponse> Results { get; set; } = new();
+        public List<T> Results { get; set; } = new();
     }
     public class Translation
     {
@@ -62,7 +75,7 @@ namespace BotAPI.Models
     {
         public string Name { get; set; }
         public string Description { get; set; }
-
+        public int Category { get; set; }
         public string MediaUrl { get; set; }
     }
 }

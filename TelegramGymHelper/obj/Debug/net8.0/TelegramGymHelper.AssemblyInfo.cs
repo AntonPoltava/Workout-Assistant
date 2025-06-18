@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelegramGymHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57050d0101f646d7e47ceff2ebf68dcd4d13328")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelegramGymHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelegramGymHelper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

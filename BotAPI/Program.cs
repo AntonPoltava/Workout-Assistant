@@ -1,6 +1,7 @@
-
 using BotAPI.Client;
+using BotAPI.Data;
 using BotAPI.Database;
+using Microsoft.EntityFrameworkCore;
 
 namespace BotAPI
 {
@@ -16,6 +17,9 @@ namespace BotAPI
             //builder.Services.AddSingleton<TelegramBotService>();
 
             builder.Services.AddScoped<DBExercise>();
+            builder.Services.AddDbContext<BotApiDbContext>(options =>
+                options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+            Console.WriteLine("Connection string: " + builder.Configuration.GetConnectionString("DefaultConnection"));
 
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
