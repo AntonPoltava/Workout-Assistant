@@ -1,4 +1,4 @@
-using BotAPI.Client;
+﻿using BotAPI.Client;
 using BotAPI.Data;
 using BotAPI.Database;
 using Microsoft.EntityFrameworkCore;
@@ -39,6 +39,7 @@ namespace BotAPI
 
 
             app.MapControllers();
+            Console.WriteLine($"🌐 API is running at: {builder.Configuration["ASPNETCORE_URLS"] ?? "https://localhost:5165"}");
 
             app.Run();
             

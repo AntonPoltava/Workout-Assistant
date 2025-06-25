@@ -8,13 +8,22 @@ namespace BotAPI.Models
     {
         public long UserId { get; set; }
         public int ExerciseId { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string MediaUrl { get; set; }
+        public int Category { get; set; }
+
     }
     public class FavoriteExercise
     {
         public int Id { get; set; }
         public long UserId { get; set; }
         public int ExerciseId { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public string MediaUrl { get; set; }
+        public int Category { get; set; }
+
     }
     public class ExerciseInfoResponse<T>
     {
@@ -73,6 +82,7 @@ namespace BotAPI.Models
     }
     public class ExerciseDto
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public int Category { get; set; }

@@ -11,33 +11,26 @@ namespace TelegramUI
         public static async Task Main(string[] args)
         {
             var host = Host.CreateDefaultBuilder(args)
-                .ConfigureAppConfiguration((context, config) =>
-                {
-                    config.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
-                })
-                .ConfigureServices((context, services) =>
-                {
-                    var configuration = context.Configuration;
+           .ConfigureAppConfiguration(config =>
+           {
+               config.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+           })
+           .ConfigureServices((context, services) =>
+           {
+               var configuration = context.Configuration;
+               var botToken = configuration["TelegramBot:Token"];
 
-                    // Реєструємо HttpClient з базовою адресою (для запитів до API)
-                    services.AddHttpClient<TelegramService>(client =>
-                    {
-                        client.BaseAddress = new Uri(configuration["BotApi:BaseUrl"]);
-                    });
+               services.AddSingleton<ITelegramBotClient>(new TelegramBotClient(botToken));
 
-                    // Реєструємо TelegramBotClient
-                    services.AddSingleton<ITelegramBotClient>(provider =>
-                    {
-                        var token = configuration["TelegramBot:Token"];
-                        return new TelegramBotClient(token);
-                    });
+               services.AddHttpClient<TelegramService>(client =>
+               {
+                   client.BaseAddress = new Uri(configuration["BotApi:BaseUrl"]);
+               });
 
-                    // Додаємо сам сервіс
-                    services.AddSingleton<TelegramService>();
-                })
-                .Build();
+               services.AddSingleton<TelegramService>();
+           })
+           .Build();
 
-            // Запускаємо TelegramService
             var telegramService = host.Services.GetRequiredService<TelegramService>();
             await telegramService.StartAsync();
         }

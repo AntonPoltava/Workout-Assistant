@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelegramUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57050d0101f646d7e47ceff2ebf68dcd4d13328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c216e19c6a74c3c8da84146d98e8896cb3247d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelegramUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelegramUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
