@@ -1,8 +1,0 @@
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.csproj.AssemblyReference.cache
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.AssemblyInfoInputs.cache
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.AssemblyInfo.cs
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.csproj.CoreCompileInputs.cache
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\tonis\source\repos\BotAPI\TelegramGymHelper\obj\Debug\net8.0\TelegramGymHelper.sourcelink.json
